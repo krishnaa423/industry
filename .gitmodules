@@ -1,0 +1,39 @@
+[submodule "cs/cs_theory"]
+	path = cs/cs_theory
+	url = https://github.com/krishnaa423/industry-cs-theory.git
+[submodule "cs/egnn_qm9"]
+	path = cs/egnn_qm9
+	url = https://github.com/krishnaa423/industry-egnn-qm9.git
+[submodule "cs/ros2_turtlebot_sim"]
+	path = cs/ros2_turtlebot_sim
+	url = https://github.com/krishnaa423/industry-ros2-turtlebot-sim.git
+[submodule "ee/ee_theory"]
+	path = ee/ee_theory
+	url = https://github.com/krishnaa423/industry-ee-theory.git
+[submodule "ee/mips_processor"]
+	path = ee/mips_processor
+	url = https://github.com/krishnaa423/industry-mips-processor.git
+[submodule "ee/ai_accelerator"]
+	path = ee/ai_accelerator
+	url = https://github.com/krishnaa423/industry-ai-accelerator.git
+[submodule "math/math_theory"]
+	path = math/math_theory
+	url = https://github.com/krishnaa423/industry-math-theory.git
+[submodule "physics/physics_theory"]
+	path = physics/physics_theory
+	url = https://github.com/krishnaa423/industry-physics-theory.git
+[submodule "physics/dolfinx"]
+	path = physics/dolfinx
+	url = https://github.com/krishnaa423/industry-dolfinx.git
+[submodule "physics/meep_ring_resonator"]
+	path = physics/meep_ring_resonator
+	url = https://github.com/krishnaa423/industry-meep-ring-resonator.git
+[submodule "physics/first_principles_lif"]
+	path = physics/first_principles_lif
+	url = https://github.com/krishnaa423/industry-first-principles-lif.git
+[submodule "resume"]
+	path = resume
+	url = https://github.com/krishnaa423/industry-resume.git
+[submodule "personal-website"]
+	path = personal-website
+	url = https://github.com/krishnaa423/industry-personal-website.git
