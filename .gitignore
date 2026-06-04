@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+_minted-*/
+build/
+*.vcd
+results/
