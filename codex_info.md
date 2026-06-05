@@ -38,6 +38,16 @@ These came from `requirements.md` and were added to resumes and the website:
 - LeetCode: `https://leetcode.com/u/krishnaa42342/`
 - Docker Hub: `https://hub.docker.com/u/krishnaa42342`
 
+## Education Facts Used
+
+- Yale University, PhD in Electrical Engineering, 2021-present.
+- Yale University, MS in Electrical Engineering, 2023, earned while in the PhD
+  program.
+- Yale University, MPhil in Electrical Engineering, 2023, earned while in the
+  PhD program.
+- Cornell University, MEng in Electrical and Computer Engineering, 2017-2018.
+- Cornell University, BA in Electrical and Computer Engineering, 2013-2017.
+
 ## Important Implementation Notes
 
 - `cs/cs_theory/main.tex` originally used `minted`, but local `latexminted`
