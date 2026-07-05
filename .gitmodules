@@ -37,3 +37,6 @@
 [submodule "personal-website"]
 	path = personal-website
 	url = https://github.com/krishnaa423/industry-personal-website.git
+[submodule "cs/agentic_bgw"]
+	path = cs/agentic_bgw
+	url = https://github.com/krishnaa423/industry-agentic-bgw.git
