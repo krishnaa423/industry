@@ -47,3 +47,4 @@
   ML for first principles too using EGNN netwroks. Sample diffusion model too using QM9 maybe. 
 - There is a lot of stuff here that is vague, but you can fill in the gaps and make everything very coherent. 
 - Socials: phone: 5168535663, email: srikrishnaacareers@gmail.com, github: krishnaa423, leetcode: krishnaa42342, dockerhub: krishnaa42342. 
+- Also, got by MS in ECE and MPhil in ECE from yale while doing my PhD at 2023. 
