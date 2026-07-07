@@ -1,39 +1,39 @@
 [submodule "cs/cs_theory"]
 	path = cs/cs_theory
-	url = https://github.com/krishnaa423/industry-cs-theory.git
+	url = https://github.com/krishnaa423/cs-theory-notes.git
 [submodule "cs/egnn_qm9"]
 	path = cs/egnn_qm9
-	url = https://github.com/krishnaa423/industry-egnn-qm9.git
+	url = https://github.com/krishnaa423/egnn-qm9.git
 [submodule "cs/ros2_turtlebot_sim"]
 	path = cs/ros2_turtlebot_sim
-	url = https://github.com/krishnaa423/industry-ros2-turtlebot-sim.git
+	url = https://github.com/krishnaa423/ros2-turtlebot-sim.git
 [submodule "ee/ee_theory"]
 	path = ee/ee_theory
-	url = https://github.com/krishnaa423/industry-ee-theory.git
+	url = https://github.com/krishnaa423/ee-theory-notes.git
 [submodule "ee/ai_accelerator"]
 	path = ee/ai_accelerator
-	url = https://github.com/krishnaa423/industry-ai-accelerator.git
+	url = https://github.com/krishnaa423/ai-accelerator-verilog.git
 [submodule "math/math_theory"]
 	path = math/math_theory
-	url = https://github.com/krishnaa423/industry-math-theory.git
+	url = https://github.com/krishnaa423/math-theory-notes.git
 [submodule "physics/physics_theory"]
 	path = physics/physics_theory
-	url = https://github.com/krishnaa423/industry-physics-theory.git
+	url = https://github.com/krishnaa423/physics-theory-notes.git
 [submodule "physics/dolfinx"]
 	path = physics/dolfinx
-	url = https://github.com/krishnaa423/industry-dolfinx.git
+	url = https://github.com/krishnaa423/dolfinx-pn-junction.git
 [submodule "physics/meep_ring_resonator"]
 	path = physics/meep_ring_resonator
-	url = https://github.com/krishnaa423/industry-meep-ring-resonator.git
+	url = https://github.com/krishnaa423/meep-ring-resonator.git
 [submodule "physics/first_principles_lif"]
 	path = physics/first_principles_lif
-	url = https://github.com/krishnaa423/industry-first-principles-lif.git
+	url = https://github.com/krishnaa423/first-principles-lif.git
 [submodule "resume"]
 	path = resume
-	url = https://github.com/krishnaa423/industry-resume.git
+	url = https://github.com/krishnaa423/resume-site.git
 [submodule "personal-website"]
 	path = personal-website
-	url = https://github.com/krishnaa423/industry-personal-website.git
+	url = https://github.com/krishnaa423/personal-website.git
 [submodule "cs/agentic_bgw"]
 	path = cs/agentic_bgw
-	url = https://github.com/krishnaa423/industry-agentic-bgw.git
+	url = https://github.com/krishnaa423/agentic-bgw.git
