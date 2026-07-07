@@ -28,9 +28,9 @@
 [submodule "physics/first_principles_lif"]
 	path = physics/first_principles_lif
 	url = https://github.com/krishnaa423/first-principles-lif.git
-[submodule "resume"]
-	path = resume
-	url = https://github.com/krishnaa423/resume-site.git
+[submodule "resume_cv"]
+	path = resume_cv
+	url = https://github.com/krishnaa423/resume-cv.git
 [submodule "personal-website"]
 	path = personal-website
 	url = https://github.com/krishnaa423/personal-website.git
