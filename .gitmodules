@@ -10,9 +10,6 @@
 [submodule "ee/ee_theory"]
 	path = ee/ee_theory
 	url = https://github.com/krishnaa423/industry-ee-theory.git
-[submodule "ee/mips_processor"]
-	path = ee/mips_processor
-	url = https://github.com/krishnaa423/industry-mips-processor.git
 [submodule "ee/ai_accelerator"]
 	path = ee/ai_accelerator
 	url = https://github.com/krishnaa423/industry-ai-accelerator.git
