@@ -37,6 +37,6 @@
 [submodule "cs/agentic_bgw"]
 	path = cs/agentic_bgw
 	url = https://github.com/krishnaa423/agentic-bgw.git
-[submodule "ee/robotic-hand-eeg"]
-	path = ee/robotic-hand-eeg
-	url = https://github.com/krishnaa423/robotic-hand-eeg.git
+[submodule "ee/robotic-hand-emg"]
+	path = ee/robotic-hand-emg
+	url = https://github.com/krishnaa423/robotic-hand-emg.git
