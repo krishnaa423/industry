@@ -122,7 +122,7 @@ pdflatex -interaction=nonstopmode -halt-on-error main.tex
 Compile resumes:
 
 ```bash
-for d in resume/software resume/ml resume/embedded resume/comp_physics resume/ee; do
+for d in resume/software resume/ml resume/embedded resume/comp_physics resume/ee resume/gpu; do
   (cd "$d" && pdflatex -interaction=nonstopmode -halt-on-error main.tex)
 done
 ```
