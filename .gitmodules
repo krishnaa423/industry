@@ -40,3 +40,6 @@
 [submodule "ee/robotic-hand-emg"]
 	path = ee/robotic-hand-emg
 	url = https://github.com/krishnaa423/robotic-hand-emg.git
+[submodule "physics/Qiskit-VQE"]
+	path = physics/Qiskit-VQE
+	url = https://github.com/krishnaa423/Qiskit-VQE.git
