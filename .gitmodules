@@ -45,4 +45,4 @@
 	url = https://github.com/krishnaa423/Qiskit-VQE.git
 [submodule "physics/FEA"]
 	path = physics/FEA
-	url = https://github.com/krishnaa423/dolfinx-fea-portfolio.git
+	url = https://github.com/krishnaa423/FEA.git
